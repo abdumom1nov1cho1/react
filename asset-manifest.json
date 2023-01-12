@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aa6cd742.css",
+    "main.js": "/static/js/main.8c935055.js",
+    "static/media/burger4.svg": "/static/media/burger4.788846a712d893ded4568229f105d916.svg",
+    "static/media/phones.svg": "/static/media/phones.2d591cc08210279bdf6a50004931b358.svg",
+    "static/media/foood.svg": "/static/media/foood.ab12ba55e1799d214f322e0077735779.svg",
+    "static/media/qizaloq.svg": "/static/media/qizaloq.6667f3f2aea711255d771ee4c4e899d5.svg",
+    "static/media/imgs.png": "/static/media/imgs.7b659811f1ead774a17f.png",
+    "static/media/2chi.svg": "/static/media/2chi.6b0676c1ed25add286b79b0cd35d193d.svg",
+    "static/media/3chi.svg": "/static/media/3chi.bd7854532d3b6ea4e95428079da9929f.svg",
+    "static/media/1chi.svg": "/static/media/1chi.2da55b14b882c9fc88bcef63a234b256.svg",
+    "static/media/6chi.svg": "/static/media/6chi.cf5aaba8a0c32a7557edb991fa7dc651.svg",
+    "static/media/4chi.svg": "/static/media/4chi.f7610b946ad983819e39a32ccf8df532.svg",
+    "static/media/5chi.svg": "/static/media/5chi.ee624c32e4ce3fcf2bd374c708db63b0.svg",
+    "static/media/burger2.svg": "/static/media/burger2.3a95c1dbec2452d79d936a01612eeb32.svg",
+    "static/media/burger1.svg": "/static/media/burger1.c44279961c845537148cc6fc12bf5abb.svg",
+    "static/media/burger3.svg": "/static/media/burger3.f571da7345b9c579d622e82974c311b6.svg",
+    "static/media/iconka.svg": "/static/media/iconka.f812786c96305b1a33c4b140cf9a8765.svg",
+    "static/media/tovuq.svg": "/static/media/tovuq.19e77d3591695bfb7f9700fb5ca4693a.svg",
+    "static/media/vilka.svg": "/static/media/vilka.b202211c68afd0f04aa267e9eae17e5c.svg",
+    "static/media/EFood.svg": "/static/media/EFood.efafd0c7602d7457abd2815ff4e15c05.svg",
+    "static/media/sendwish.svg": "/static/media/sendwish.77c4cc0627daaa2c756efa58f4f13cdf.svg",
+    "static/media/pizza.svg": "/static/media/pizza.869445642519ef613fc13c6b69cf8d13.svg",
+    "static/media/Buy.svg": "/static/media/Buy.d2d8039e453f5920dc7d48a530dc135f.svg",
+    "index.html": "/index.html",
+    "static/media/Search.svg": "/static/media/Search.33df4f15d68b2f8e2775b1cb869e7d26.svg",
+    "main.aa6cd742.css.map": "/static/css/main.aa6cd742.css.map",
+    "main.8c935055.js.map": "/static/js/main.8c935055.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa6cd742.css",
+    "static/js/main.8c935055.js"
+  ]
+}
